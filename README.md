@@ -27,7 +27,9 @@
 
 ### Anomaly detection
 
-
+| Author (Year)         |    Paper Name   |    Journal/ Conference |    Link  |  Complementary
+| ------------- |:-------------: | :-------------: |  :-------------:  |       
+| Chien, C.-F., Wang, H.-J., and Wang, M. (2007) | A UNISON Framework for Analyzing Alternative Strategies of IC Final Testing for Enhancing Overall Operational Effectiveness | International Journal of Production Economics | [Link](https://reader.elsevier.com/reader/sd/pii/S0925527306002374?token=C68869B6F8922527F64E3E123697FDC7B5461DECC4B39D15B92CAA7F225F794168CDD1CE01B24AF95CF05AC2F6A14FD2&originRegion=us-east-1&originCreation=20220824114326) | :heavy_check_mark:
 
 ### Prognostic Health Management
 
