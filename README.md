@@ -22,9 +22,6 @@ B
 
 ### Tabular dataset analysis & Data mining
 
-| Name          | Language       | Pitch     | License | Maintained
-| ------------- |:-------------: | :-------------: |  :-------------:  |  :-------------:     
-| Data preprocessing | Java | Streaming anomaly detection with automated model selection and fitting. | Apache-2.0 | :heavy_check_mark:
 
 ### Computer Vision
 
