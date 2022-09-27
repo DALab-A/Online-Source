@@ -43,3 +43,7 @@ B
 | Cheng, F.-T., Kao, C.-A., Chen, C.-F., and Tsai, W.-H. (2015) | Tutorial on Applying the VM Technology for TFT-LCD Manufacturing | IEEE Transactions on Semiconductor Manufacturing | [Link]() | :heavy_check_mark:
 | Huang, H.-C., Lin, Y.-C., Hung, M.-H., Tu, C.-C., and Cheng, F.-T. (2015) | Development of cloud-based automatic virtual metrology system for semiconductor industry | Robotics and Computer-Integrated Manufacturing | [Link]() | :heavy_check_mark:
 
+### Parameter Tuning
+| Author (Year)         |    Paper Name   |    Journal/ Conference |    Link  |  Complementary
+| ------------- |:-------------: | :-------------: |  :-------------:  | :-------------:  | 
+| Vu Nguyen, Michael A. Osborne | Knowing The What But Not The Where in Bayesian Optimization | International Conference on Machine Learning | [Link](https://proceedings.mlr.press/v119/nguyen20d.html) | :heavy_check_mark:
