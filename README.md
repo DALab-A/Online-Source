@@ -46,4 +46,4 @@ B
 ### Parameter Tuning
 | Author (Year)         |    Paper Name   |    Journal/ Conference |    Link  |  Complementary
 | ------------- |:-------------: | :-------------: |  :-------------:  | :-------------:  | 
-| Vu Nguyen, Michael A. Osborne | Knowing The What But Not The Where in Bayesian Optimization | International Conference on Machine Learning | [Link](https://proceedings.mlr.press/v119/nguyen20d.html) | :heavy_check_mark:
+| Nguyen and Osborne (2020) | Knowing The What But Not The Where in Bayesian Optimization | International Conference on Machine Learning | [Link](https://proceedings.mlr.press/v119/nguyen20d.html) | :heavy_check_mark:
